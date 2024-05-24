@@ -8,6 +8,9 @@ public class Lab2 {
         System.out.println(reportCard1.getReport());
         System.out.println(reportCard2.getReport());
         System.out.println(reportCard3.getReport());
+
+        String newx = new String("hello world");
+        new String(newx);
     }
 
     public class ReportCard {
